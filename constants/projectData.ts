@@ -165,8 +165,8 @@ export const projectData = [
         icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg',
       },
     ],
-    livePreview: 'https://threadz-henna.vercel.app/',
-    sourceCode: 'https://github.com/mayluv17/threadz',
+    livePreview: 'https://competent-dubinsky-bb338a.netlify.app/',
+    sourceCode: 'https://github.com/mayluv17/urlshortner',
     image: '/assets/images/shortly.png',
   },
 ];
