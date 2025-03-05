@@ -1,7 +1,7 @@
 export const experiences = [
   {
     role: 'Fullkstack Developer',
-    duration: 'June 2021 - Jan 2023',
+    duration: '2021 - 2023',
     link: '#',
     company: 'Xircuitron ',
     location: '',
@@ -38,7 +38,7 @@ export const experiences = [
   },
   {
     role: 'Fullstack Developer Intern',
-    duration: 'July 2021 - Dec 2021',
+    duration: 'July 2017 - Dec 2019',
     link: 'https://wildfire.ng/',
     company: '@Pluxnet ',
     location: '',
