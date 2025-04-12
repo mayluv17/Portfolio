@@ -20,9 +20,9 @@ export const experiences = [
   },
   {
     role: 'Software Developer',
-    duration: 'Jan 2020 - June 2022',
+    duration: '2019 - 2020',
     link: '#',
-    company: '@TopChoice Digitals ',
+    company: 'TopChoice Digitals ',
     location: '',
     description1:
       'Transformed an established logistic and delivery tracking portal, serving a vast user base of 5000+ monthly users, into an intuitively responsive application, amplifying the overall user experience and ensuring seamless usability across mobile and tablet devices.',
@@ -38,7 +38,7 @@ export const experiences = [
   },
   {
     role: 'Fullstack Developer Intern',
-    duration: 'July 2017 - Dec 2019',
+    duration: '2017 - 2019',
     link: 'https://wildfire.ng/',
     company: '@Pluxnet ',
     location: '',
