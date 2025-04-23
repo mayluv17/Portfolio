@@ -4,7 +4,7 @@ export const navigationOnLargeScreen = [
   { name: 'About', href: '#' },
   {
     name: 'Resume',
-    href: 'https://drive.google.com/file/d/1haSPKwlNUfUP-6qLk78vNsz2BwVTnoXA/view?usp=drive_link',
+    href: 'https://drive.google.com/file/d/1z99ltP7Sr2aplMDiAm5N5ITMnEmm32AW/view?usp=sharing',
   },
   { name: 'Contact', href: '#contact' },
 ];
@@ -13,7 +13,7 @@ export const navigationOnMobile = [
   { name: 'Projects', href: '#projects' },
   {
     name: 'Resume',
-    href: 'https://drive.google.com/file/d/1haSPKwlNUfUP-6qLk78vNsz2BwVTnoXA/view?usp=drive_link',
+    href: 'https://drive.google.com/file/d/1z99ltP7Sr2aplMDiAm5N5ITMnEmm32AW/view?usp=sharing',
   },
   { name: 'Contact', href: '#contact' },
 ];
