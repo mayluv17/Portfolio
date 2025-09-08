@@ -26,7 +26,7 @@ function Contact() {
             Reach out to me <span aria-hidden="true">→</span>
           </span>{' '}
           <br />
-          <Link href="mailto:somkeneoj@gmail.com">
+          <Link href="mailto:mayowaibrahim009@gmail.com">
             <span className="text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-100 hover:text-pink-500 tracking-wide font-sans">
               mayowaibrahim009@gmail.com
             </span>
